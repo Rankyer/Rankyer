@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ## Projects
 Here are some of my recent projects:  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rankyer&repo=NUS-SOC-SummerWorkshop-Project)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rankyer&repo=NUS-SOC-SummerWorkshop-DeepLearning-Labs&)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rankyer&repo=NUS-SOC-SummerWorkshop-Project)](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rankyer&repo=NUS-SOC-SummerWorkshop-DeepLearning-Labs&)](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-DeepLearning-Labs)
 
 ### Visitor Map
 <!--
