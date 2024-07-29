@@ -26,3 +26,11 @@ Here are some of my recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rankyer&repo=NUS-SOC-SummerWorkshop-Project)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rankyer&repo=NUS-SOC-SummerWorkshop-DeepLearning-Labs&)](https://github.com/anuraghazra/github-readme-stats)
 
+### Visitor Map
+<!--
+<a href="https://clustrmaps.com/site/1c0nq" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=JfuYgA67vGVgL6R5lh1Yf-Rq0US2Pjhtq5U6loK-2uQ&cl=ffffff" /></a>
+![Visitor Map](https://clustrmaps.com/map_v2.png?d=JfuYgA67vGVgL6R5lh1Yf-Rq0US2Pjhtq5U6loK-2uQ)
+-->
+<a href="https://clustrmaps.com/site/1c0nq" title="Visit tracker">
+  <img src="https://clustrmaps.com/map_v2.png?d=JfuYgA67vGVgL6R5lh1Yf-Rq0US2Pjhtq5U6loK-2uQ&cl=ffffff" width="450" />
+</a>
