@@ -6,13 +6,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 ![](https://komarev.com/ghpvc/?username=Rankyer&label=PROFILE+VIEWS)
-- 🔭 I’m currently a sophomore at ***ShanghaiTech University***
+- 🔭 I’m currently a junior at ***ShanghaiTech University***
 - 🌱 I’m currently majoring in **Computer Science**
-- 👯 I’m looking to collaborate on **deep learning projects and applications**
-- 🤔 I’m looking for help with **advancing my research in AI and machine learning**
+- ⚡ Interest:  **representation learning** and **data efficient learning**
 - 📫 How to reach me: **[email](yangrk2022@shanghaitech.edu.cn)**
 - 😄 More info: **[my website](https://rankyer.github.io/)**
-- ⚡ Fun fact: **I have a keen interest in ...🤔**
+
+<!--
+- 👯 I’m looking to collaborate on **deep learning projects**
+- 🤔 I’m looking for help with **advancing my research in AI and machine learning**
+-->
 
 ## GitHub Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rankyer&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,11 +29,10 @@ Here are some of my recent projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rankyer&repo=NUS-SOC-SummerWorkshop-Project)](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rankyer&repo=NUS-SOC-SummerWorkshop-DeepLearning-Labs&)](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-DeepLearning-Labs)
 
-### Visitor Map
+
 <!--
-<a href="https://clustrmaps.com/site/1c0nq" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=JfuYgA67vGVgL6R5lh1Yf-Rq0US2Pjhtq5U6loK-2uQ&cl=ffffff" /></a>
-![Visitor Map](https://clustrmaps.com/map_v2.png?d=JfuYgA67vGVgL6R5lh1Yf-Rq0US2Pjhtq5U6loK-2uQ)
--->
+### Visitor Map
 <a href="https://clustrmaps.com/site/1c0nq" title="Visit tracker">
   <img src="https://clustrmaps.com/map_v2.png?d=JfuYgA67vGVgL6R5lh1Yf-Rq0US2Pjhtq5U6loK-2uQ&cl=ffffff" width="450" />
 </a>
+-->
