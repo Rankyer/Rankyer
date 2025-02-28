@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Rankyer&label=PROFILE+VIEWS)
 - 🔭 I’m currently a junior at ***ShanghaiTech University***
 - 🌱 I’m currently majoring in **Computer Science**
-- ⚡ Interest:  **representation learning** and **data efficient learning**
+- ⚡ Interest:  **generative model** and **data efficient learning**
 - 📫 How to reach me: **[email](yangrk2022@shanghaitech.edu.cn)**
 - 😄 More info: **[my website](https://rankyer.github.io/)**
 
@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rankyer)](https://github.com/anuraghazra/github-readme-stats)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rankyer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Research Interest
+The following are my research interests (some papers I have recently read):
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rankyer&repo=Generative-Model-Paper)](https://github.com/Rankyer/Generative-Model-Paper)
+
 
 ## Projects
 Here are some of my recent projects:  
